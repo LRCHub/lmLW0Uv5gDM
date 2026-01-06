@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "mimosa",
+  "base_artist": "浜崎あゆみ",
+  "createdAt": "2026-01-06T15:02:25.335256Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mimosa",
+      "artist": "Fiorella Mannoia",
+      "has_synced": true,
+      "path": "select/01_Mimosa_Fiorella_Mannoia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mimosa",
+      "artist": "Rini",
+      "has_synced": true,
+      "path": "select/02_Mimosa_Rini.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Divine Mimosa",
+      "artist": "Swearin'",
+      "has_synced": true,
+      "path": "select/03_Divine_Mimosa_Swearin'.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mimosa",
+      "artist": "Mintzkov Luna",
+      "has_synced": true,
+      "path": "select/04_Mimosa_Mintzkov_Luna.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mimosa",
+      "artist": "KOTOKO",
+      "has_synced": false,
+      "path": "select/05_Mimosa_KOTOKO.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Linda Mimosa",
+      "artist": "Cesária Évora",
+      "has_synced": false,
+      "path": "select/06_Linda_Mimosa_Cesária_Évora.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Linda Mimosa",
+      "artist": "Cesária Évora feat. Orquesta Aragón",
+      "has_synced": false,
+      "path": "select/07_Linda_Mimosa_Cesária_Évora_feat._Orquesta_Aragón.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mimosa",
+      "artist": "Niccolò Fabi",
+      "has_synced": true,
+      "path": "select/08_Mimosa_Niccolò_Fabi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mimosa Lullaby (Part 1)",
+      "artist": "Redneck Souljers",
+      "has_synced": true,
+      "path": "select/09_Mimosa_Lullaby_(Part_1)_Redneck_Souljers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mimosa Monday",
+      "artist": "Young Science",
+      "has_synced": true,
+      "path": "select/10_Mimosa_Monday_Young_Science.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Linda Mimosa (com Orquesta Aragón)",
+      "artist": "Cesária Évora",
+      "has_synced": false,
+      "path": "select/11_Linda_Mimosa_(com_Orquesta_Aragón)_Cesária_Évora.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Linda Mimosa (&Orquesta Aragon)",
+      "artist": "Cesaria Evora",
+      "has_synced": false,
+      "path": "select/12_Linda_Mimosa_(&Orquesta_Aragon)_Cesaria_Evora.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Amarillo Mimosa",
+      "artist": "Swallow X feat. Nico Miseria & Allan Parrish",
+      "has_synced": true,
+      "path": "select/13_Amarillo_Mimosa_Swallow_X_feat._Nico_Miseria_&_Allan_Parrish.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Amarillo Mimosa",
+      "artist": "Swallow X/Nico Miseria/Allan Parrish",
+      "has_synced": true,
+      "path": "select/14_Amarillo_Mimosa_Swallow_X_Nico_Miseria_Allan_Parrish.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "mimosa",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_01_mimosa_浜崎_あゆみ.txt"
+    }
+  ]
+}
